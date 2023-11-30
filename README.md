@@ -1,12 +1,5 @@
----
-title: abhisheknaiidu
-date: '2020-14-05'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'abhisheknaiidu'
----
 
-### Hey 👋🏽, I'm Aurélien
+### Hey 👋🏽, I'm Aurélien, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool.
 
 <a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
