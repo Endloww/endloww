@@ -2,7 +2,7 @@
 ### Hey 👋🏽, I'm Aurélien, 
 
 <a href="https://www.linkedin.com/in/aurelien-blanchet-7a934a275/">
-  <img align="left" alt="Aurelien's Linkedin" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Aurelien's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
