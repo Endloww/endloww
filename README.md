@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src ="[DY0ZWVmMGI4YjI1MWE3Nzg2NzYyZjYyNDQ2NzJkMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xRONQnspIemTe190pdsBxjQ3jgFqPVzGOj5RNF3wWA](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)E"/>
+<img src ="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <!--
 **Endloww/endloww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
