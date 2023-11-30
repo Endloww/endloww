@@ -18,14 +18,12 @@ Hi, I'm Aurélien Blanchet, a Student Developer 👨🏽‍💻 from France, Cur
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
+- 👨🏽‍💻 I’m currently working on [AWOC](https://github.com/abhisheknaiidu/A-POP);
+- 🌱 I’m currently learning React and I am deepening my knowledge about php and javascript; 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📫 How to reach me: aurelien.blanchet74@gmail.com;
+- 📝[Portfolio](https://aurelienblanchet.com/)
 
 **Languages and Tools:**  
 
