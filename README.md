@@ -7,12 +7,12 @@
 <a href="http://staggeringbeauty.com/">
   <img align="left" alt="Aurelien's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://aurelienblanchet.com/" class="button pill">! Mon portfolio !</a>
+<a href="https://aurelienblanchet.com/" class="button pill">◘•◘•PORTFOLIO•◘•◘</a>
 
 <br />
 <br />
 
-Hi, I'm Aurélien Blanchet, a Student Developer 🚀 from France, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool. I love traveling, coding, reading, coding, and coding.
+Hi, I'm Aurélien Blanchet, a Student Developer 👨🏽‍💻 from France, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool. I love traveling, coding, reading, coding, and coding.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
