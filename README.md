@@ -7,7 +7,7 @@
 <a href="http://staggeringbeauty.com/">
   <img align="left" alt="Aurelien's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-◘•◘•<a href="https://aurelienblanchet.com/" class="button pill">PORTFOLIO</a>•◘•◘
+◘•◘•<a href="https://aurelienblanchet.com/">PORTFOLIO</a>•◘•◘
 
 <br />
 <br />
