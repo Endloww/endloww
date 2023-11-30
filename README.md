@@ -5,7 +5,7 @@
   <img align="left" alt="Aurelien's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="http://staggeringbeauty.com/">
-  <img alt="Aurelien's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="Aurelien's Instagram" width="100px" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" />
 </a>
 ◘•◘•<a href="https://aurelienblanchet.com/">PORTFOLIO</a>•◘•◘
 
