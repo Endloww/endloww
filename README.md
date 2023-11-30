@@ -1,11 +1,8 @@
 
-### Hey 👋🏽, I'm Aurélien, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool.
+### Hey 👋🏽, I'm Aurélien, 
 
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  [<img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -26,7 +23,7 @@
 <br />
 <br />
 
-Hi, I'm Aurélien Blanchet, a Student Developer 🚀 from France, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Aurélien Blanchet, a Student Developer 🚀 from France, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool. I love traveling, coding, reading, coding, and coding.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
