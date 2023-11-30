@@ -14,16 +14,16 @@
 
 Hi, I'm Aurélien Blanchet, a Student Developer 👨🏽‍💻 from France, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool. I love traveling, coding, reading, coding, and coding.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+  <img align="right" alt="GIF" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" />
+
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [AWOC](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning React and I am deepening my knowledge about php and javascript; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: aurelien.blanchet74@gmail.com;
-- 📝[Portfolio](https://aurelienblanchet.com/)
+- 👨🏽‍💻 I’m currently working on [AWOC](https://github.com/abhisheknaiidu/A-POP) ;
+- 🌱 I’m currently learning React and I am deepening my knowledge about php and javascript ; 
+- 👯 I'm looking to collaborate on diverse and varied projects 🤝 ;
+- 💬 Ask me about anything, I am happy to help ;
+- 📫 How to reach me: aurelien.blanchet74@gmail.com ;
+- 📝[Portfolio](https://aurelienblanchet.com/) ;
 
 **Languages and Tools:**  
 
