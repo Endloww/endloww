@@ -14,7 +14,7 @@
 
 Hi, I'm Aurélien Blanchet, a Student Developer 👨🏻‍💻 from France, Currently I am spending my second year of higher education at Gabriel Fauré And I plan to do a third year at MyDigitalSchool. I love traveling, coding, reading, coding, and coding.
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"></img>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"></img>
 
 **Talking about Personal Stuffs:**
 
