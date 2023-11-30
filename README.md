@@ -1,8 +1,8 @@
 
 ### Hey 👋🏽, I'm Aurélien, 
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  [<img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/aurelien-blanchet-7a934a275/">
+  [<img align="left" alt="Aurelien's Linkedin" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
