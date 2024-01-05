@@ -18,7 +18,7 @@ Hi, I'm Aurélien Blanchet, a Student Developer 👨🏻‍💻 from France, Cur
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on [AWOC](https://github.com/abhisheknaiidu/A-POP) ;
+- 👨🏻‍💻 I’m currently working on [AWOC](https://awoc.zet74.fr) ;
 - 🌱 I’m currently learning React and I am deepening my knowledge about php and javascript ; 
 - 👯 I'm looking to collaborate on diverse and varied projects 🤝 ;
 - 💬 Ask me about anything, I am happy to help ;
