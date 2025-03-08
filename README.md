@@ -7,7 +7,6 @@
 <a href="http://staggeringbeauty.com/">
   <img alt="Aurelien's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-◘•◘•<a href="https://aurelienblanchet.com/">PORTFOLIO</a>•◘•◘
 
 <br />
 <br />
@@ -23,7 +22,6 @@ Hi, I'm Aurélien Blanchet, a Student Developer 👨🏻‍💻 from France, Cur
 - 👯 I'm looking to collaborate on diverse and varied projects 🤝 ;
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: aurelien.blanchet74@gmail.com ;
-- 📝[Portfolio](https://aurelienblanchet.com/) ;
 
 **Languages and Tools:**  
 
